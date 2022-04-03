@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "solace-volatility-endpoint",
+			"path": "../../../solace-volatility-endpoint"
+		}
+	],
+	"settings": {}
+}
